@@ -2,19 +2,17 @@
 
 ## Infrastructure
 
-[![Spring Cloud | Service Discovery](https://img.shields.io/badge/Spring%20Cloud-Service%20Discovery-6DB33F?style=for-the-badge&logo=spring&logoColor=white)](https://github.com/purav/ServiceDiscovery)
-[![Spring Cloud | API Gateway](https://img.shields.io/badge/Spring%20Cloud-API%20Gateway-6DB33F?style=for-the-badge&logo=spring&logoColor=white)](https://github.com/purav/ApiGateway)
+[![Spring Cloud | Service Discovery](https://img.shields.io/badge/Spring%20Cloud-Service%20Discovery-6DB33F?style=for-the-badge&logo=spring&logoColor=white)](https://github.com/puravarya/ServiceDiscovery)
+[![Spring Cloud | API Gateway](https://img.shields.io/badge/Spring%20Cloud-API%20Gateway-6DB33F?style=for-the-badge&logo=spring&logoColor=white)](https://github.com/puravarya/ApiGateway)
 
 ## Business Services
 
-[![Microservice | User Service](https://img.shields.io/badge/Microservice-User%20Service-007EC6?style=for-the-badge&labelColor=555555&logo=spring&logoColor=white)](https://github.com/purav/UserService)
-[![Microservice | Product Service](https://img.shields.io/badge/Microservice-Product%20Service-007EC6?style=for-the-badge&labelColor=555555&logo=spring&logoColor=white)](https://github.com/purav/ProductService)
-[![Microservice | Payment Service](https://img.shields.io/badge/Microservice-Payment%20Service-007EC6?style=for-the-badge&labelColor=555555&logo=spring&logoColor=white)](https://github.com/purav/PaymentService)
-[![Microservice | Email Service](https://img.shields.io/badge/Microservice-Email%20Service-007EC6?style=for-the-badge&labelColor=555555&logo=spring&logoColor=white)](https://github.com/purav/EmailService)
+[![Microservice | User Service](https://img.shields.io/badge/Microservice-User%20Service-007EC6?style=for-the-badge&labelColor=555555&logo=spring&logoColor=white)](https://github.com/puravarya/UserService)
+[![Microservice | Product Service](https://img.shields.io/badge/Microservice-Product%20Service-007EC6?style=for-the-badge&labelColor=555555&logo=spring&logoColor=white)](https://github.com/puravarya/ProductService)
+[![Microservice | Payment Service](https://img.shields.io/badge/Microservice-Payment%20Service-007EC6?style=for-the-badge&labelColor=555555&logo=spring&logoColor=white)](https://github.com/puravarya/PaymentService)
+[![Microservice | Email Service](https://img.shields.io/badge/Microservice-Email%20Service-007EC6?style=for-the-badge&labelColor=555555&logo=spring&logoColor=white)](https://github.com/puravarya/EmailService)
 
-https://github.com/user-attachments/assets/65e776b4-f6af-41cc-9e1d-fbeeba7253d3
-
-> 🎥 Product Service Demonstration!
+<!-- Add your own demo video here -->
 
 ---
 
@@ -39,7 +37,7 @@ https://github.com/user-attachments/assets/65e776b4-f6af-41cc-9e1d-fbeeba7253d3
       - [Databases](#architecture-components)
       - [Message Broker (Kafka)](#architecture-components)
       - [Caching (Redis)](#architecture-components)
-      - [Search & Analytics (Elasticsearch)](#architecture-components)      
+      - [Search & Analytics (Elasticsearch)](#architecture-components)
   - [Typical Flow](#typical-flow)
     - [Part 1: Product Search](#part-1-product-search)
     - [Part 2: Add to Cart](#part-2-add-to-cart)
@@ -61,7 +59,7 @@ The project demonstrates real-world backend engineering concepts including RESTf
 
 ## Architecture Diagram
 
-<img width="637" height="777" alt="High-Level Architecture" src="https://github.com/user-attachments/assets/601be6e5-e445-44af-b47d-fc4a87b7237e" />
+<!-- Add your own architecture diagram or screenshot here -->
 
 ---
 
@@ -80,20 +78,20 @@ The project demonstrates real-world backend engineering concepts including RESTf
 
 ## Tech Stack
 
-  | Technology                         | Purpose                                  |
+| Technology                         | Purpose                                  |
   | ---------------------------------- | ---------------------------------------- |
-  | Java 17                            | Core Programming Language                |
-  | Spring Boot 3.4                    | Application Framework                    |
-  | Spring Web                         | RESTful API Development                  |
-  | Spring Data JPA                    | Database Persistence Layer               |
-  | MySQL                              | Primary Relational Database              |
-  | Redis                              | Distributed Caching                      |
-  | Spring Cloud Netflix Eureka Client | Service Discovery                        |
-  | Lombok                             | Boilerplate Code Reduction               |
-  | Maven                              | Build Automation & Dependency Management |
-  | JUnit 5                            | Testing Framework                        |
-  | Spring Boot DevTools               | Development & Hot Reload Support         |
-  | IntelliJ IDEA                      | Integrated Development Environment       |
+| Java 17                            | Core Programming Language                |
+| Spring Boot 3.4                    | Application Framework                    |
+| Spring Web                         | RESTful API Development                  |
+| Spring Data JPA                    | Database Persistence Layer               |
+| MySQL                              | Primary Relational Database              |
+| Redis                              | Distributed Caching                      |
+| Spring Cloud Netflix Eureka Client | Service Discovery                        |
+| Lombok                             | Boilerplate Code Reduction               |
+| Maven                              | Build Automation & Dependency Management |
+| JUnit 5                            | Testing Framework                        |
+| Spring Boot DevTools               | Development & Hot Reload Support         |
+| IntelliJ IDEA                      | Integrated Development Environment       |
 
 
 ---
@@ -214,9 +212,8 @@ This project is licensed under the [Apache 2.0 License](./LICENSE).
 
 ## Author
 
-[**Purav**](https://github.com/purav)
+[**Purav**](https://github.com/puravarya)
 
 Thank you for exploring this project. If you find it helpful, consider giving the repository a ⭐ to support its continued development.
 
-#   p u r a v - P r o d u c t S e r v i c e  
- 
+_Based on the original ProductService project by sahil-me, licensed under Apache 2.0._
